@@ -2,7 +2,7 @@
 
 Now that we have learned how to create a webserver and define endpoints with Javalin, we need to learn how to
 retrieve data from the HTTP requests.
-
+ 
 The most common ways to retrieve data from the HTTP requests:
 - Path parameters
 - HTTP Request body
