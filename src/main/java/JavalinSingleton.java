@@ -59,8 +59,8 @@ public class JavalinSingleton {
         echo.setArtistName("Beatles");
 
         //generate an HTTP response with the user object in the response body as a JSON.
-        ctx.json(echo); 
-
+        ctx.json(echo);  
+        
 
         });
 
